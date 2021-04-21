@@ -1,0 +1,9 @@
+{
+  "name": "Taboola",
+  "documents": {
+    "Ad Publisher Policy": {
+      "fetch": "https://pubhelp.taboola.com/hc/en-us/articles/360033751274-Taboola-Publisher-Policy#",
+      "select": "div#article-container-.article-container"
+    }
+  }
+}

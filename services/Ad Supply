@@ -1,0 +1,9 @@
+{
+   "name": "Ad Supply",
+   "documents": {
+     "Terms and Conditions for Advertisers and Publishers": {
+       "fetch": "https://www.adsupply.com/advertiser-publisher-terms/",
+       "select": "div#top.site"
+     }
+   }
+ }

@@ -1,0 +1,9 @@
+{
+   "name": "Xander",
+   "documents": {
+     "Xander Ad Selling Policy": {
+       "fetch": "https://wiki.xandr.com/display/policies/Policies+for+Selling",
+       "select": "div.article-body"
+     }
+   }
+ }

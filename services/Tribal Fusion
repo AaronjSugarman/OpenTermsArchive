@@ -1,0 +1,9 @@
+{
+  "name": "Tribal Fusion",
+  "documents": {
+    "Ad Publishing Partner Terms": {
+      "fetch": "https://exponential.com/publisher-solutions/",
+      "select": "div.grve-element.grve-text.publishers-text"
+    }
+  }
+}

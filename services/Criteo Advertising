@@ -1,0 +1,9 @@
+{
+   "name": "Criteo Advertising",
+   "documents": {
+     "Criteo Supply Partner Guidelines, Ad Publishing Policy": {
+       "fetch": "https://www.criteo.com/supply-partner-guidelines/",
+       "select": "div.container"
+     }
+   }
+ }

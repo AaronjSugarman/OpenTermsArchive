@@ -1,0 +1,13 @@
+{
+  "name": "Amazon Publisher Services",
+  "documents": {
+    "Amazon Ad Publishing Policy": {
+      "fetch": "https://ams.amazon.com/webpublisher/apsmanaged/apsagreement.html",
+      "select": "div.row"
+    },
+    "Amazon Ad Publishing Editorial Adjacency Policy": {
+      "fetch": "https://www.amazon.com/gp/help/customer/display.html/ref=hp_left_v4_sib?ie=UTF8&nodeId=GX7NJQ4ZB8MHFRNJ",
+      "select": "div.row"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Ad Roll",
+  "documents": {
+    "Advertising Policy": {
+      "fetch": "https://help.adroll.com/hc/en-us/categories/360001977912-Advertising-Policies",
+      "select": "main"
+    },
+    "Prohibited Content and Practices: Inappropriate Content: {
+      "fetch": "https://help.adroll.com/hc/en-us/articles/360031225371-Prohibited-Content-and-Practices-Inappropriate-Content",
+      "select": "div.article-page"
+    },
+    "Restricted Content and Practices: Political Content": {
+      "fetch": "https://help.adroll.com/hc/en-us/articles/360031226091-Restricted-Content-and-Practices-Political-Content",
+      "select": ".article__body.markdown"
+    },
+    "Restricted Content and Practices: COVID-19": {
+      "fetch": "https://help.adroll.com/hc/en-us/articles/360042675351-Restricted-Content-and-Practices-COVID-19",
+      "select": "div.article-page"
+    }
+  }
+}

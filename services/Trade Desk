@@ -1,0 +1,9 @@
+{
+  "name": "Trade Desk",
+  "documents": {
+    "Inventory Supplier Agreement": {
+      "fetch": "https://www.thetradedesk.com/us/inventory-supplier-agreement",
+      "select": "div.richText___1kunY"
+    }
+  }
+}

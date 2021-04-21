@@ -9,6 +9,10 @@
     "Terms of Service": {
       "fetch": "https://www.verizon.com/about/terms-conditions/terms-of-use",
       "select": ".component-start"
+    },
+    "Verizon Media Supply Partner Policies, Ad Publishing Policy": {
+      "fetch": "https://adspecs.verizonmedia.com/pages/verizonmediasupplypolicies/#Section2a",
+      "select": "div#ApplicationContainer"
     }
   }
 }

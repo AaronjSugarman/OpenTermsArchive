@@ -1,0 +1,9 @@
+{
+  "name": "Infolinks",
+  "documents": {
+    "Service Agreement": {
+      "fetch": "https://www.infolinks.com/service-agreement/",
+      "select": "div.row.pad"
+    }
+  }
+}

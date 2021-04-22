@@ -1,0 +1,9 @@
+{
+  "name": "Teads",
+  "documents": {
+    "Ad Policies": {
+      "fetch": "https://www.teads.com/ad-policies/",
+      "select": "div.elementor-container.elementor-column-gap-default"
+    }
+  }
+}

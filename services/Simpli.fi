@@ -1,0 +1,9 @@
+{
+  "name": "Simpli.fi",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.google.com/adsense/tc/2018/UnitedKingdom.html",
+      "select": "div#page.hfeed.site"
+    }
+  }
+}

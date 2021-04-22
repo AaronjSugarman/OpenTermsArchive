@@ -1,0 +1,9 @@
+{
+  "name": "Outbrain",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.outbrain.com/advertisers/guidelines/",
+      "select": "div.block.toggle"
+    }
+  }
+}

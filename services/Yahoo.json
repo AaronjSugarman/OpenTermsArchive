@@ -9,6 +9,10 @@
     "Terms of Service": {
       "fetch": "https://policies.yahoo.com/ie/en/yahoo/terms/utos/index.htm?redirect=no",
       "select": ".l-content-well-content"
+    },
+     "Ad Publisher Terms and Conditions": {
+      "fetch": "https://policies.yahoo.com/us/en/yahoo/terms/advertising/publisher/index.htm",
+      "select": "div.l-content-well-content"
     }
   }
 }

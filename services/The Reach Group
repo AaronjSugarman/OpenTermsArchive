@@ -1,0 +1,9 @@
+{
+  "name": "The Reach Group",
+  "documents": {
+    "General Terms and Conditions Contract": {
+      "fetch": "https://trg.de/en/general-terms-and-conditions-of-contract/",
+      "select": "div.gr-container"
+    }
+  }
+}

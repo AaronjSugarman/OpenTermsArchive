@@ -1,0 +1,9 @@
+{
+  "name": "Rubicon Project",
+  "documents": {
+    "Ad Quality and Publishing Guidelines": {
+      "fetch": "https://rubiconproject.com/terms-conditions/rubicon-project-ad-quality-guidelines/",
+      "select": "div.container"
+    }
+  }
+}

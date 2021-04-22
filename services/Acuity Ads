@@ -1,0 +1,9 @@
+{
+  "name": "Acuity Ads",
+  "documents": {
+    "Terms and Conditions": {
+      "fetch": "https://www.acuityads.com/terms-and-conditions/",
+      "select": "div.entry-content.col-sm-8.col-xs-12"
+    }
+  }
+}

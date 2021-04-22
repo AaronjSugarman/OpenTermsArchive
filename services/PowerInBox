@@ -1,0 +1,9 @@
+{
+  "name": "PowerInBox",
+  "documents": {
+    "Terms of Use": {
+      "fetch": "https://www.jeeng.com/terms-of-use/",
+      "select": "div.content"
+    }
+  }
+}
